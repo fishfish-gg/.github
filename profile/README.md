@@ -6,4 +6,4 @@ We provide an API allowing easy access to our phishing-domain database. API docu
 
 Useful links: <br>
 \- Website: [fishfish.gg](https://fishfish.gg) <br>
-\- API Documentation: [fishfish.gg/api](https://fishfish.gg/api)
+\- API Documentation: [api.fishfish.gg/v1/docs](https://api.fishfish.gg/v1/docs)
